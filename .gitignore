@@ -1,0 +1,13 @@
+tmp/
+coverage/
+quickbooks-ruby-*.gem
+
+Gemfile.lock
+
+.ruby-version
+.ruby-gemset
+.bundle
+.idea
+.env
+webapp/
+.DS_Store
